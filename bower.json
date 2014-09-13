@@ -14,12 +14,5 @@
     "demo*",
     "gruntFile.js",
     "package.json"
-  ],
-  "dependencies": {
-    "angular": "~1.x",
-    "tinymce": "qed42/tinymce"
-  },
-  "devDependencies": {
-    "angular-mocks": "~1.x"
-  }
+  ]
 }
